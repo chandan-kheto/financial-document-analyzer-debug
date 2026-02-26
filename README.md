@@ -105,8 +105,7 @@ Fix: Replaced with valid imports and removed unused references.
 
 Bug: Pdf loader referenced without import.
 
-Fix:
-Replaced with: from langchain_community.document_loaders import PyPDFLoader
+Fix: Replaced with: from langchain_community.document_loaders import PyPDFLoader
 
 9️⃣ Static vs Async Tool Definition Issue
 
